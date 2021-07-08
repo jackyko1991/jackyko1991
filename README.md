@@ -16,6 +16,7 @@ https://simpleicons.org/
 </p>
 <br></br>
 
+<!-- https://getemoji.com/ -->
 ### Hi this is Jacky 👋
 - 🎓 **Phd Student** at The Chinese University of Hong Kong.
 - 🔬Research interest:
@@ -24,6 +25,7 @@ https://simpleicons.org/
   - 💔 Vascular diseases analysis
   - 📸 Computer vision (classification, segmentation, registration)
   - 🤖 Unsupervised learning
+  - 🧭 Image based surgical navigation system
 
 <!--
 **jackyko1991/jackyko1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
