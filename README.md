@@ -18,8 +18,9 @@ https://simpleicons.org/
 
 <!-- https://getemoji.com/ -->
 ### Hi this is Jacky 👋
-- 🎓 **Phd Student** at The Chinese University of Hong Kong.
-- 🔬Research interest:
+- 🔬 **Bioimage Analyst** in Oxford-Zeiss Centre of Excellence (Oxford-ZCoE), Kennedy Institute of Rheumatology, NDORMS, University of Oxford
+- 🎓 **Phd** from The Chinese University of Hong Kong.
+- 📝 Research interest:
   - ⚕️ Medical image processing 
   - 💦 Vascular fluid simulations
   - 💔 Vascular diseases analysis
