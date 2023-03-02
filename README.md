@@ -21,10 +21,10 @@ https://simpleicons.org/
 - 🔬 **Bioimage Analyst** in Oxford-Zeiss Centre of Excellence (Oxford-ZCoE), Kennedy Institute of Rheumatology, NDORMS, University of Oxford
 - 🎓 **Phd** from The Chinese University of Hong Kong.
 - 📝 Research interest:
-  - ⚕️ Medical image processing 
+  - ⚕️ Bio-Medical image processing 
   - 💦 Vascular fluid simulations
   - 💔 Vascular diseases analysis
-  - 📸 Computer vision (classification, segmentation, registration)
+  - 📸 Computer vision (classification, segmentation, registration, tracking)
   - 🤖 Unsupervised learning
   - 🧭 Image based surgical navigation system
 
