@@ -13,6 +13,7 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"> 
 <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Dask-EF1161?style=flat&logo=dask&logoColor=white">
 </p>
 <br></br>
 
