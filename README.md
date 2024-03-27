@@ -19,10 +19,11 @@ https://simpleicons.org/
 
 <!-- https://getemoji.com/ -->
 ### Hi this is Jacky 👋
-- 🔬 **Bioimage Analyst** in Oxford-Zeiss Centre of Excellence (Oxford-ZCoE), Kennedy Institute of Rheumatology, NDORMS, University of Oxford
+- 🔬 **Bioimage Analyst** in Oxford-ZEISS Centre of Excellence (CoE), Kennedy Institute of Rheumatology, NDORMS, University of Oxford
 - 🎓 **Phd** from The Chinese University of Hong Kong.
 - 📝 Research interest:
-  - ⚕️ Bio-Medical image processing 
+  - 🦠 Event driven microscopy
+  - ⚕️ Biomedical image processing 
   - 💦 Vascular fluid simulations
   - 💔 Vascular diseases analysis
   - 📸 Computer vision (classification, segmentation, registration, tracking)
